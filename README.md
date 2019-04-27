@@ -1,2 +1,3 @@
 # java8_stream_file
-Stream lendro TXT
+
+utilizando API Stream para ler aquivos TXT.
