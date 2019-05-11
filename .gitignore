@@ -7,6 +7,25 @@
 # BlueJ files
 *.ctxt
 
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.classpath
+.project
+
+### Java ###
+# Compiled class file
+*.class
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
