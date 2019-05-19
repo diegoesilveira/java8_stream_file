@@ -8,14 +8,14 @@ public class Jogador {
 	private String timeAtual;
 	private int golsMarcados;
 
-	public Jogador(String nome, String posicao, int idade, String timeAtual, int golsMarcados) {
-
-		this.nome = nome;
-		this.posicao = posicao;
-		this.idade = idade;
-		this.timeAtual = timeAtual;
-		this.golsMarcados = golsMarcados;
-	}
+//	public Jogador(String nome, String posicao, int idade, String timeAtual, int golsMarcados) {
+//
+//		this.nome = nome;
+//		this.posicao = posicao;
+//		this.idade = idade;
+//		this.timeAtual = timeAtual;
+//		this.golsMarcados = golsMarcados;
+//	}
 
 	public String getNome() {
 		return nome;
