@@ -1,10 +1,3 @@
-Hernane,Atacante,29,Sport,3
-Lucas Prato,atacante,27,atlético-mg,13
 Nene,atacante,33,vasco,8
-Ricardo Oliveira,atacante,34,santos,20
-Bruno,lateral-direito,23,São Paulo,19
-Diego,atacante,31,Gremio,30
-Victor,zagueiro,17,Gremio,50
-Joao,atacante,33,Sao-Paulo,90
-Luiz,atacante,29,Sao-Paulo,91
+
 
